@@ -6,7 +6,7 @@ My name is Muhamad Ilyas.
 <p align="left"><img src="https://komarev.com/ghpvc/?username=MuhamadIlyas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views muhamdilyas" /> </p>
 <p align="left">
 <a href="#">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhamdilyas&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhamdIlyas&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamdilyas&layout=compact"/>
 </a>
 </p>
